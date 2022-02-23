@@ -1,5 +1,7 @@
 git add 
-    - .
+    - . (add semua file ke dalem sistem git)
     - specific file
 
 git commit -m "ini adalah komennya"
+
+git push origin (branch);
