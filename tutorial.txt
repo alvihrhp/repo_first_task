@@ -1,0 +1,5 @@
+git add 
+    - .
+    - specific file
+
+git commit -m "ini adalah komennya"
